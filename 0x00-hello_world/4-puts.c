@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * A C program that prints an output and
- * returns the value zero
+ * main - main block
+ * Return: 0
  */
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle \n");
+	puts("\"Programming is like building a multilingual puzzle \n");
 	return (0);
 }
